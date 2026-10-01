@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "38583168881",
+    "project_id": "social-check-7fbcb",
+    "storage_bucket": "social-check-7fbcb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38583168881:android:c61716a8d7b9df1751d0d0",
+        "android_client_info": {
+          "package_name": "com.example.social_check"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCx7VM8r2BvdyO-ppDAURshO4gHoiMQCFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
